@@ -1,0 +1,57 @@
+body{  
+    background-color:rgb(30, 127, 192);  
+    text-align: center;
+    font-family: 'Lato', sans-serif; 
+}
+img{ 
+    width: 500px;
+   
+}
+.txtverde{color: #99FA99;
+text-decoration: none;
+}
+h1{ text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+    padding: 10px;
+       
+   }
+.otraletra{
+    font-family: 'Nixie One', cursive;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+    a:hover{
+        color:white;
+    }
+    a:active{
+        color: black;
+    }
+    a{
+        font-family:'Courier New', Courier, monospace;
+    }
+    h3{  
+      
+        font-family: 'Courier New', Courier, monospace;
+    }
+    h4{
+        font-family:'Courier New', Courier, monospace;
+        text-align:left;
+
+    }
+ .txtblanco{
+     color: white;
+ }
+ ol{
+     text-align: left;
+ }
+ ul{
+     text-align: left;
+ }
+.medio{
+    text-align: center;
+}
